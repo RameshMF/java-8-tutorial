@@ -3,6 +3,7 @@ Demonstration of Java 8 Features
 
 This project contains the examples of Java 8 Features. I have explained this project examples in my blog posts.
 
+
 1. Java 8 Lambda Expressions : https://ramesh-java-design-patterns.blogspot.in/2018/03/java-8-lambda-expressions.html
 
 2. Java 8 Functional Interfaces : https://ramesh-java-design-patterns.blogspot.in/2018/03/java-8-functional-interfaces.html
@@ -18,3 +19,25 @@ This project contains the examples of Java 8 Features. I have explained this pro
 7. Java 8 Optional Class : https://ramesh-java-design-patterns.blogspot.in/2018/03/java-8-optional-class.html
 
 8. Migrating source code to Java 8 : https://ramesh-java-design-patterns.blogspot.in/2018/03/migrating-source-code-to-java-8.html
+
+Java 8 Duration Class with Examples
+http://www.javaguides.net/2018/07/java-8-duration-class-with-examples.html
+
+Java 8 Date Parsing and Formatting with Examples
+http://www.javaguides.net/2018/07/java-8-date-parsing-and-formatting-with-examples.html
+
+Java 8 Instant Class with Examples
+http://www.javaguides.net/2018/07/java-8-instant-class-with-examples.html
+
+Java 8 Time Zone and Offset Classes with Examples
+http://www.javaguides.net/2018/07/java-8-time-zone-and-offset-classes-with-examples.html
+
+
+Java 8 Date and Time Classes with Examples
+http://www.javaguides.net/2018/07/java-8-date-and-time-classes-with-examples.html
+
+Java 8 Date Classes with Examples
+http://www.javaguides.net/2018/07/java-8-date-classes-with-examples.html
+
+Java 8 Date and Time Overview
+http://www.javaguides.net/2018/07/java-8-date-and-time-overview.html
